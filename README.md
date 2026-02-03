@@ -12,7 +12,7 @@ This is that experiment, brought to life.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Real-time Hand Tracking** — Powered by MediaPipe's state-of-the-art hand detection
 - **Gesture-Based Interaction** — Control UI elements through natural hand movements
@@ -21,11 +21,11 @@ This is that experiment, brought to life.
 
 ---
 
-## 🎮 Gesture Controls
+## Gesture Controls
 
 New to gesture-based UI? Here's how to interact:
 
-### ✋ Single Hand Gestures
+### Single Hand Gestures
 
 | Gesture | How To | What It Does |
 |---------|--------|--------------|
@@ -34,7 +34,7 @@ New to gesture-based UI? Here's how to interact:
 | **Release** | Separate thumb from index | Drop held objects |
 | **Hover** | Move hand over UI elements | Highlight interactive elements |
 
-### 🤲 Two-Hand Gestures
+### Two-Hand Gestures
 
 | Gesture | How To | What It Does |
 |---------|--------|--------------|
@@ -43,7 +43,7 @@ New to gesture-based UI? Here's how to interact:
 | **Hold Open** | Keep both hands pinching | Keeps the window open |
 | **Close** | Release both pinches (or wait after speaking) | Closes the window |
 
-### 💡 Pro Tips
+### Pro Tips
 
 - **Grabbing the sphere**: Get your hand close to the sphere, *then* pinch. Distance matters!
 - **Opening windows**: Start with hands close together, then pull apart like stretching taffy
@@ -95,7 +95,7 @@ New to gesture-based UI? Here's how to interact:
 
    Navigate to [http://localhost:3000](http://localhost:3000)
 
-5. **Grant camera access** when prompted, and start waving ✋
+5. **Grant camera access** when prompted, and start waving 
 
 ---
 
@@ -111,7 +111,7 @@ New to gesture-based UI? Here's how to interact:
 
 ---
 
-## 📜 Scripts
+## Scripts
 
 | Command | Description |
 |---------|-------------|
@@ -122,7 +122,7 @@ New to gesture-based UI? Here's how to interact:
 
 ---
 
-## 🌌 The Vision
+## The Vision
 
 This isn't just a tech demo—it's a glimpse into a world where the boundary between digital and physical dissolves. Where your hands become the interface. Where AR isn't something you look *at*, but something you reach *into*.
 
